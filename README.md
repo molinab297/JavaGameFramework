@@ -41,7 +41,7 @@ Utility classes
 ************
 Math classes
 ************
-- Vector2D : 
+- Vector2D : This class represents a two-dimensional vector represented using x and y components. Vector2D can be uesd to represent things like position, velocity and acceleration. **Note: See Scrollable class to see examples of Vector2D in action.
 
 *****************
 Animation classes
